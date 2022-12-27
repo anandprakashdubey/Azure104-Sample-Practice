@@ -8,8 +8,8 @@ I will be using my azure account but for some complex resource implementation, i
 # Find azure 104 details here: <a href="https://learn.microsoft.com/en-us/certifications/exams/az-104">Azure 104</a>
 
 # Measured skills are - 
-  <div class="section is-small is-uniform padding-top-sm padding-top-xxs-tablet">
-		<h2 class="title is-3 margin-top-lg">Skills measured</h2>
+<div class="section is-small is-uniform padding-top-sm padding-top-xxs-tablet">
+	<h2 class="title is-3 margin-top-lg">Skills measured</h2>
 	<div class="margin-top-xxs content">
 		<ul class="margin-xs">				 
 				<li class="font-size-sm">
@@ -29,4 +29,9 @@ I will be using my azure account but for some complex resource implementation, i
 				</li>
 		</ul>
 	</div>
+</div>
+
+# Microsoft Identities - <a href ="https://learn.microsoft.com/en-gb/azure/active-directory/develop/v2-overview">here</a>
+<image src="https://learn.microsoft.com/en-gb/azure/active-directory/develop/media/v2-overview/application-scenarios-identity-platform.png" />
+
  
